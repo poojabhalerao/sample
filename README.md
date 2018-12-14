@@ -1,3 +1,3 @@
 # sample
 Demo
-echo "hello"
+demo
